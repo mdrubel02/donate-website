@@ -13,7 +13,9 @@
 
 body {
     font-family: 'Poppins', sans-serif;
+    /* background: #1f1f38; */
     color: #fff;
+    line-height: 1.7;
 }
 
 h1,
@@ -103,10 +105,4 @@ a:hover {
 	top: 32%;
 	left: 25%;
 	text-align: center;
-}
-.banner-content h1{
-    font-size: 3rem;
-}
-.banner-content p{
-    margin-bottom: 5px;
 }
