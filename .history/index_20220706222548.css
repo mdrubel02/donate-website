@@ -218,28 +218,11 @@ hr {
     text-align: center;
     margin-bottom: 3rem;
 }
-.detils-info{
-    color: #141313;
-    font-size: .9rem;
-    padding: .4rem 0;
-}
 .contact-info{
     width: 45%;
 }
 .contact-detils{
     margin-top: 1rem;
-}
-.icon{
-    width: 150px;
-    height: 150px;
-    background-color: #FF5959;
-    color:#fff ;
-    font-size: 3rem;
-    padding: .7rem;
-    border-radius: 50%;
-}
-.social-icon{
-    margin-top: 2rem;
 }
 .icons{
     color: #FF5959;
@@ -348,4 +331,4 @@ footer h1 {
 
 footer small {
     color: #fff;
-} 
+}

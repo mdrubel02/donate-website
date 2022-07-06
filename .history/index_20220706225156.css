@@ -231,15 +231,10 @@ hr {
 }
 .icon{
     width: 150px;
-    height: 150px;
+    height: 1500px;
     background-color: #FF5959;
-    color:#fff ;
-    font-size: 3rem;
-    padding: .7rem;
+    color:#4db5ff ;
     border-radius: 50%;
-}
-.social-icon{
-    margin-top: 2rem;
 }
 .icons{
     color: #FF5959;
