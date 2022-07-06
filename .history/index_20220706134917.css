@@ -90,7 +90,6 @@ a:hover {
 
 hr {
     border: 1px solid #DADADA;
-    margin-bottom: 1.3rem;
 }
 
 
@@ -166,12 +165,9 @@ hr {
     color: #FF5959;
 }
 
-.donate-section {
+.middle {
     width: 691px;
     margin-left: 200px;
-}
-.donate-section a{
-    text-align: center;
 }
 
 .donate-section p {

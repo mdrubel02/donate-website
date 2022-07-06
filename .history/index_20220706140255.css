@@ -168,7 +168,8 @@ hr {
 
 .donate-section {
     width: 691px;
-    margin-left: 200px;
+    display: flex;
+    flex-direction: column;
 }
 .donate-section a{
     text-align: center;

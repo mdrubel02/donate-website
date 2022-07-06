@@ -90,7 +90,6 @@ a:hover {
 
 hr {
     border: 1px solid #DADADA;
-    margin-bottom: 1.3rem;
 }
 
 
@@ -156,7 +155,8 @@ hr {
     display: flex;
     justify-content: center;
     align-items: center;
-    margin: 1.2rem 0;
+    margin-left: .9rem;
+    margin-top: 1.3rem;
     transition: all 400ms ease;
 }
 
@@ -165,12 +165,7 @@ hr {
     border-radius: 5px;
     color: #FF5959;
 }
-
-.donate-section {
-    width: 691px;
-    margin-left: 200px;
-}
-.donate-section a{
+.donate-section{
     text-align: center;
 }
 
