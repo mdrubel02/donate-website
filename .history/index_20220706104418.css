@@ -14,7 +14,6 @@
 body {
     font-family: 'Poppins', sans-serif;
 }
-
 h1,
 h2,
 h3,
@@ -23,13 +22,6 @@ h5,
 h6 {
     font-weight: 500;
 }
-
-img {
-    display: block;
-    width: 100%;
-    object-fit: cover;
-}
-
 .container {
     max-width: 1200px;
     margin: 0 auto;
@@ -37,15 +29,6 @@ img {
     margin-top: 10%;
     margin-bottom: 10%;
     box-sizing: border-box;
-}
-
-a {
-    color: #4db5ff;
-    transition: all 400ms ease;
-}
-
-a:hover {
-    color: #fff;
 }
 
 .btn {
@@ -63,9 +46,4 @@ a:hover {
     background: #fff;
     color: #1f1f38;
     border-color: transparent;
-}
-
-.btn-primary {
-    background: #4db5ff;
-    color: #1f1f38;
-}
+  }
